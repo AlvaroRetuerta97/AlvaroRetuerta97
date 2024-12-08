@@ -1,19 +1,11 @@
-![Header Banner](https://example.com/banner.png)
-
-
 # Hi there 👋, I'm Álvaro!
 ### Data Analyst
+##### I'm a passionate Data Analyst who loves exploring, modelling, analyzing and interpreting data. I also love related areas such as Business Intelligence and Business Analytics.
 
-- 🔭 I’m currently working on ...
-##### 🌱 I’m currently learning ...
-##### 👯 I’m looking to collaborate on ...
-##### 🌐 Connect with Me: 
-###### [LinkedIn](https://linkedin.com/in/alvaroretuerta) 
-###### [Gravatar](https://alvaroretuerta.link/)
+##### 🌱 I’m currently advancing my knowledge of Power BI, SQL and Python for Data Analysis
+##### 🌐 Connect with Me: [LinkedIn](https://linkedin.com/in/alvaroretuerta)
 
-## I'm a passionate Data Analyst who loves exploring, modelling, analyzing and interpreting data. I also love related areas such as Business Intelligence and Business Analytics.
-
-### 🛠 Skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+### 🛠 Skills:![Advanced Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&logoColor=white) ![Intermediate SQL](https://img.shields.io/badge/SQL-Intermediate-blue?logo=postgresql&logoColor=white) ![Intermediate Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=power-bi&logoColor=white) ![User-Level Python](https://img.shields.io/badge/Python-User%20Level-blue?logo=python&logoColor=white)
 
 
 <!--
@@ -34,5 +26,6 @@ Here are some ideas to get you started:
 - [Awesome Project 1](https://github.com/username/project1): Brief description of the project.
 - [Awesome Project 2](https://github.com/username/project2): Brief description of the project.
 
+- ![Header Banner](https://example.com/banner.png)
 -->
 
